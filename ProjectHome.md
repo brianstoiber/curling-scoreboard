@@ -1,0 +1,1 @@
+A simple yet effective scoreboard for curling matches
